@@ -1,1 +1,12 @@
-
+jupyterlab
+notebook
+numpy
+pandas
+scikit-learn
+matplotlib
+ipywidgets
+torch
+torchvision
+torchaudio
+seaborn
+black
