@@ -1,2 +1,2 @@
 # Movie-Recommender
-An ML project to recommend movies
+Description:- An ML project to recommend movies
